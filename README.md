@@ -1,0 +1,2 @@
+# An-Artificial-Intelligence-Approach-to-Diabetes-Prediction-Using-Health-Indicators
+This project implements a machine learning-based system to predict Diabetes Mellitus by analyzing clinical and lifestyle indicators from a dataset of 70,692 records. The primary goal is to facilitate early diagnosis, which is critical for preventing severe complications like heart disease, kidney failure, and stroke
